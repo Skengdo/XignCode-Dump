@@ -4,6 +4,8 @@ Dump of XingnCode's Client module 20/11/2020
 
 String Decryption:
 
+blob:https://imgur.com/a418c297-c0b4-4c92-8e34-77fe1e436bff
+
 ```const wchar_t* decrypt_chinkstring(const char* encrypted_string)
 {
     signed __int64 v2; // rax
@@ -21,5 +23,3 @@ String Decryption:
 
     return (LPCWSTR)ClassName;
 }```
-
-you will see a bunch of strings that look like this: blob:https://imgur.com/a418c297-c0b4-4c92-8e34-77fe1e436bff
