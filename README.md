@@ -6,7 +6,8 @@ String Decryption:
 
 you will see a bunch of strings that look like this: https://imgur.com/ZbjF7Wk
 
-```const wchar_t* decrypt_chinkstring(const char* encrypted_string)
+```
+const wchar_t* decrypt_chinkstring(const char* encrypted_string)
 {
     signed __int64 v2; // rax
     unsigned __int64 v1; // r8
@@ -22,4 +23,5 @@ you will see a bunch of strings that look like this: https://imgur.com/ZbjF7Wk
     } while (v1 < 0x26);
 
     return (LPCWSTR)ClassName;
-}```
+}
+```
