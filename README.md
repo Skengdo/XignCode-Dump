@@ -1,5 +1,5 @@
-# XingnCode-Dump
-Dump of XingnCode's Client module 20/11/2020
+# XignCode-Dump
+Dump of XignCode's Client module 20/11/2020
 
 
 String Decryption:
